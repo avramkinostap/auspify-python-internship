@@ -33,5 +33,5 @@ python task1_password_generator/password_generator.py
 
 ## Author
 
-avramkinostap**
+**avramkinostap**
 Python Developer Intern @ Auspify Technologies
