@@ -8,14 +8,14 @@ A 4-week remote internship focused on practical Python development — covering 
 
 ## Tasks Progress
 
-| # | Task | Difficulty | Status |
-|---|------|------------|--------|
+| # | Task                                             | Difficulty | Status |
+|---|--------------------------------------------------|------------|--------|
 | 1 | [Password Generator](./task1_password_generator) | Easy | ✅ Completed |
-| 2 | [To-Do List Application](./task2_todo_list) | Easy | ✅ Completed |
-| 3 | [Calculator with GUI](./task3_calculator) | Medium | ✅ Completed |
-| 4 | Weather Information App | Medium | 🔄 In progress |
-| 5 | Expense Tracker System | Advanced | ⬜ Not started |
-| 6 | AI Chatbot Application | Advanced | ⬜ Not started |
+| 2 | [To-Do List Application](./task2_todo_list)      | Easy | ✅ Completed |
+| 3 | [Calculator with GUI](./task3_calculator)        | Medium | ✅ Completed |
+| 4 | [Weather Information App](./task4_weather_app)   | Medium | ✅ Completed |
+| 5 | Expense Tracker System                           | Advanced | 🔄 In progress |
+| 6 | AI Chatbot Application                           | Advanced | ⬜ Not started |
 
 ## Tech Stack
 
